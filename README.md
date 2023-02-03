@@ -21,7 +21,7 @@ gh install cd-glacier/gh-branch
 gh branch
 ```
 
-### Find branshes which you are assigned and checkout that.
+#### Find branshes which you are assigned and checkout that.
 
 
 ```
