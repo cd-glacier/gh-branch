@@ -6,7 +6,6 @@ Make `git checkout` easy.
 
 ```
 gh install cd-glacier/gh-branch
-
 ```
 
 # Requirements
