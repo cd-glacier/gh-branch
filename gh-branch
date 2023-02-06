@@ -2,7 +2,7 @@
 set -e
 
 if [ ! -z "$1" ]; then
-  if [[ "$1" == mine ]]; then
+  if [[ "$1" == "--me" || "$1" == "-me" ]]; then
     if [[ $(tput lines) > 35 ]]; then
       preview_height=30
     elif [[ $(tput lines) > 25 ]]; then

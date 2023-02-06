@@ -25,6 +25,6 @@ gh branch
 
 
 ```
-gh branch mine
+gh branch --me
 ```
 
